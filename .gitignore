@@ -1,0 +1,6 @@
+__pycache__
+checkpoints/*
+venv
+.env
+admin_client.py
+postgresql-42.7.4.jar
